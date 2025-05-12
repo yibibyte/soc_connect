@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Приложение Связь</string>
+    <string name="title_home">Домой</string>
+    <string name="title_dashboard" tools:ignore="ExtraTranslation">"Панель "</string>
+    <string name="title_notifications">Уведомление</string>
+<!--    <string name="title_settings">Настройки</string>-->
+</resources>
